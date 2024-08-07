@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 
 /// Main Color
-Color green77() => const Color(0xff43D477);
+Color green77() => const Color(0x00b22d);
 Color green91() => const Color(0xff9EFFC1);
 Color blue64() => const Color(0xff1F3B64);
 LinearGradient greenGradint() => LinearGradient(
